@@ -2,11 +2,11 @@
 
 
 ## Table Content
-- [About]
-- [Technologies and Tools used]
-- [Database Schema](#Database-Schema)
-- [Get Start]
-- [Functionalities Implemented]
+- About
+- Technologies and Tools used
+- Database Schema
+- Get Start
+- Functionalities Implemented
 
 ## About
 This is a lottery game where the players buy boxes.
